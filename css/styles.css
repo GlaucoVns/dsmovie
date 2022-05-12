@@ -27,7 +27,7 @@ nav a{font-size: 12px; font-weight: 700;}
 
 #dsmovie-card-list{padding: 40px 0;}
 
-.dsmovie-card{width: 360px;}
+.dsmovie-card{width: 100%;}
 
 .dsmovie-card img{width: 100%; border-radius: 8px 8px 0 0;}
 
