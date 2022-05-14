@@ -27,7 +27,7 @@ nav a{font-size: 12px; font-weight: 700;}
 .dsmovie-contact-container{display: flex;align-items: center;}
 .dsmovie-contact-container img{margin-right: 10px;}
 
-#dsmovie-card-list{padding: 40px 0;}
+#dsmovie-card-list{padding: 40px 10px;}
 
 .dsmovie-card{width: 100%;}
 
