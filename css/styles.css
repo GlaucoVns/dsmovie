@@ -41,5 +41,9 @@ nav a{font-size: 12px; font-weight: 700;}
     font-size: 14px; font-weight: 700;
 display: flex; align-items: center; justify-content: center; border-radius: 4px;}
 
+.dsmovie-form-section{}
+
+.dsmovie-form-container{padding: 40px 0; max-width: 480px;}
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap')
 
